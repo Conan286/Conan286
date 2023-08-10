@@ -1,4 +1,4 @@
-# 	Ai-chan
+
 
 ![](https://komarev.com/ghpvc/?username=AiHaiBaraChan)
 
